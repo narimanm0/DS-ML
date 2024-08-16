@@ -1,0 +1,650 @@
+,Company Score,Location,Mean_Salary,Jobs,location
+0,3.9,"Plano, TX",38.45,Research and Development,TX
+1,4.8,Remote,25.0,Data and Analytics,Remote
+2,3.9,United States,30.845,Data and Analytics,United States
+3,3.6,"Minneapolis, MN",25.439999999999998,Data and Analytics,MN
+4,3.4,"Woodbridge, NJ",77.0,Data and Analytics,NJ
+5,3.8,"Charleston, SC",36.0,Data and Analytics,SC
+6,4.2,"Waukesha, WI",72.0,Engineering,WI
+7,3.6,"Atlanta, GA",50.0,Data and Analytics,GA
+8,3.9,United States,30.845,Data and Analytics,United States
+9,3.5,"Dallas, TX",57.0,Data and Analytics,TX
+10,3.5,"Sewell, NJ",60.0,Data and Analytics,NJ
+11,4.1,"Dallas, TX",72.0,Data and Analytics,TX
+12,3.2,"Oshkosh, WI",19.5,Data and Analytics,WI
+13,4.0,Remote,121.0,Data and Analytics,Remote
+14,3.5,"Franklin, TN",20.0,Data and Analytics,TN
+15,3.7,"Moorhead, MN",57.0,Data and Analytics,MN
+16,4.1,"Kennesaw, GA",25.0,Data and Analytics,GA
+17,3.3,United States,25.0,Research and Development,United States
+18,3.8,"Columbus, OH",35.75,Data and Analytics,OH
+19,5.0,United States,49.0,Research and Development,United States
+20,4.1,United States,57.0,Data and Analytics,United States
+21,3.7,"Newton, MA",85.0,Data and Analytics,MA
+22,3.2,"Chicago, IL",22.86,Data and Analytics,IL
+23,3.8,"Chicago, IL",57.0,Technology and IT,IL
+24,3.8,"Salt Lake City, UT",24.5,Data and Analytics,UT
+25,3.3,"Saint Louis, MO",31.5,Data and Analytics,MO
+26,3.8,Remote,29.0,Others,Remote
+27,4.0,"Jonesboro, AR",52.0,Data and Analytics,AR
+28,3.9,"Chicago, IL",21.0,Data and Analytics,IL
+29,4.1,"Atlanta, GA",37.75,Engineering,GA
+30,4.0,"Exton, PA",47.0,Data and Analytics,PA
+31,3.3,"Perrysburg, OH",35.0,Data and Analytics,OH
+32,3.9,"Wayzata, MN",33.0,Data and Analytics,MN
+33,5.0,"Jonesboro, AR",42.5,Data and Analytics,AR
+34,4.1,"Purchase, NY",51.0,Data and Analytics,NY
+35,4.1,"Macedonia, OH",55.0,Engineering,OH
+36,4.0,"Sunnyvale, CA",1.0,Engineering,CA
+37,4.1,"Milwaukee, WI",43.0,Data and Analytics,WI
+38,3.8,Remote,49.0,Others,Remote
+39,4.6,"Fairfield, OH",18.0,Data and Analytics,OH
+40,3.4,"Minneapolis, MN",17.0,Engineering,MN
+41,4.3,"Cincinnati, OH",27.0,Technology and IT,OH
+42,3.6,"Omaha, NE",86.0,Data and Analytics,NE
+43,3.8,Remote,30.845,Technology and IT,Remote
+44,4.0,Remote,37.0,Data and Analytics,Remote
+45,3.7,"Kohler, WI",43.525,Others,WI
+46,3.3,"Melbourne, FL",18.0,Others,FL
+47,3.8,"Stamford, CT",20.0,Data and Analytics,CT
+48,4.3,"Peoria, IL",19.799999999999997,Data and Analytics,IL
+49,3.3,"Glen Allen, VA",55.0,Data and Analytics,VA
+50,3.9,"Fayetteville, AR",18.25,Data and Analytics,AR
+51,3.6,"Washington, DC",36.0,Technology and IT,DC
+52,4.1,"Purchase, NY",15.0,Data and Analytics,NY
+53,3.4,"Newark, NJ",28.5,Data and Analytics,NJ
+54,3.4,"New York, NY",30.845,Business and Marketing,NY
+55,3.4,Remote,26.0,Technology and IT,Remote
+56,3.9,"Chicago, IL",25.0,Data and Analytics,IL
+57,4.3,"Pawtucket, RI",37.0,Business and Marketing,RI
+58,4.0,Remote,19.0,Others,Remote
+59,3.7,Remote,85.0,Business and Marketing,Remote
+60,3.5,"Neenah, WI",50.0,Data and Analytics,WI
+61,3.3,"San Francisco, CA",95.0,Engineering,CA
+62,2.9,United States,23.5,Business and Marketing,United States
+63,3.9,"Charlottesville, VA",65.0,Data and Analytics,VA
+64,3.8,"Lafayette, LA",48.0,Business and Marketing,LA
+65,3.8,"Philadelphia, PA",23.5,Data and Analytics,PA
+66,3.6,"Jonesboro, AR",20.0,Engineering,AR
+67,3.5,"Ballwin, MO",16.52,Data and Analytics,MO
+68,4.2,"Purchase, NY",37.0,Others,NY
+69,3.9,"Mounds View, MN",18.5,Others,MN
+70,3.7,"Honolulu, HI",27.5,Data and Analytics,HI
+71,4.0,"Newark, NJ",1.0,Data and Analytics,NJ
+72,3.9,"Washington, DC",2.0,Data and Analytics,DC
+73,3.7,"Indianapolis, IN",30.0,Data and Analytics,IN
+74,3.8,"Philadelphia, PA",30.0,Data and Analytics,PA
+75,3.1,"Seattle, WA",59.0,Data and Analytics,WA
+76,3.6,"Bristow, VA",17.5,Data and Analytics,VA
+77,3.7,"Oklahoma City, OK",71.0,Data and Analytics,OK
+78,4.0,"Jeffersonville, IN",52.0,Data and Analytics,IN
+79,3.5,"San Jose, CA",17.5,Data and Analytics,CA
+80,3.2,"Riverside, MO",57.0,Data and Analytics,MO
+81,4.0,"Newark, NJ",19.5,Data and Analytics,NJ
+82,3.9,New York State,17.0,Business and Marketing,New York State
+83,3.9,"Linthicum, MD",15.0,Business and Marketing,MD
+84,3.6,United States,3.0,Data and Analytics,United States
+85,3.4,"Austin, TX",61.0,Data and Analytics,TX
+86,3.8,"Katy, TX",43.0,Data and Analytics,TX
+87,4.0,Remote,47.0,Technology and IT,Remote
+88,4.4,"Durham, NC",69.0,Data and Analytics,NC
+89,3.8,"Florham Park, NJ",23.490000000000002,Data and Analytics,NJ
+90,3.7,"Tampa, FL",30.0,Business and Marketing,FL
+91,5.0,"Houston, TX",43.525,Technology and IT,TX
+92,3.4,"Bloomington, IL",91.0,Others,IL
+93,3.0,Remote,91.0,Others,Remote
+94,4.2,"Bartlesville, OK",44.0,Technology and IT,OK
+95,2.0,"Washington, DC",6.0,Others,DC
+96,3.4,"Boise, ID",17.5,Data and Analytics,ID
+97,4.1,"North Chicago, IL",25.0,Finance and Accounting,IL
+98,3.9,"Lebanon, OH",19.22,Data and Analytics,OH
+99,3.9,"Los Angeles, CA",19.0,Technology and IT,CA
+100,2.8,Remote,1.0,Others,Remote
+101,3.5,United States,27.310000000000002,Data and Analytics,United States
+102,4.1,"Richmond, VA",78.5,Others,VA
+103,3.9,Remote,1.0,Business and Marketing,Remote
+104,2.9,"New York, NY",37.5,Data and Analytics,NY
+105,5.0,"Bronx, NY",67.5,Data and Analytics,NY
+106,4.1,"Conyers, GA",23.0,Others,GA
+107,3.8,Remote,24.0,Business and Marketing,Remote
+108,3.7,"Denver, CO",38.0,Business and Marketing,CO
+109,4.2,"Marietta, GA",30.0,Data and Analytics,GA
+110,3.6,Remote,35.0,Data and Analytics,Remote
+111,4.1,"Bridgeton, MO",21.0,Business and Marketing,MO
+112,3.9,"New Baltimore, MI",30.0,Data and Analytics,MI
+113,4.6,"Dallas, TX",45.0,Data and Analytics,TX
+114,4.4,"Midvale, UT",26.0,Others,UT
+115,4.2,"Plymouth, MI",56.0,Engineering,MI
+116,4.3,United States,102.0,Research and Development,United States
+117,4.0,"San Francisco, CA",20.5,Data and Analytics,CA
+118,4.4,Connecticut,27.25,Data and Analytics,Connecticut
+119,3.3,"Portland, OR",45.0,Data and Analytics,OR
+120,3.3,"Macedonia, OH",15.0,Data and Analytics,OH
+121,2.0,United States,22.54,Finance and Accounting,United States
+122,3.1,"Dulles, VA",43.525,Engineering,VA
+123,4.0,"San Jose, CA",45.0,Data and Analytics,CA
+124,3.8,"Nashville, TN",21.0,Data and Analytics,TN
+125,4.4,"Princeton, NJ",88.0,Data and Analytics,NJ
+126,3.2,"Cincinnati, OH",42.0,Data and Analytics,OH
+127,4.0,"Boston, MA",16.5,Technology and IT,MA
+128,3.1,"Houston, TX",41.0,Others,TX
+129,4.1,"Phoenix, AZ",45.0,Data and Analytics,AZ
+130,3.3,"Boston, MA",52.0,Research and Development,MA
+131,3.8,"Salt Lake City, UT",61.0,Data and Analytics,UT
+132,3.8,"Commerce City, CO",40.0,Data and Analytics,CO
+133,3.6,Remote,58.0,Technology and IT,Remote
+134,3.8,"Branchburg, NJ",72.0,Data and Analytics,NJ
+135,3.7,Colorado,37.5,Others,Colorado
+136,3.6,Iowa,80.0,Others,Iowa
+137,3.5,Remote,67.0,Others,Remote
+138,3.4,"San Jose, CA",18.5,Data and Analytics,CA
+139,3.3,"San Jose, CA",17.0,Data and Analytics,CA
+140,3.6,"Binghamton, NY",51.0,Engineering,NY
+141,4.1,"Brea, CA",17.0,Research and Development,CA
+142,3.3,"San Jose, CA",17.0,Data and Analytics,CA
+143,3.7,"Greenfield, IN",110.0,Data and Analytics,IN
+144,4.2,"Orlando, FL",79.0,Others,FL
+145,3.9,"Poway, CA",1.0,Engineering,CA
+146,3.2,"Durham, NC",36.0,Data and Analytics,NC
+147,4.3,New Jersey,44.0,Technology and IT,New Jersey
+148,3.5,United States,75.0,Data and Analytics,United States
+149,3.6,"Salina, KS",53.0,Technology and IT,KS
+150,3.6,"Los Angeles, CA",34.0,Business and Marketing,CA
+151,3.7,"Washington, DC",40.0,Technology and IT,DC
+152,3.8,United States,53.0,Data and Analytics,United States
+153,5.0,"Santa Cruz, CA",14.0,Others,CA
+154,3.4,"Elizabeth, NJ",5.0,Business and Marketing,NJ
+155,4.2,"Austell, GA",17.0,Data and Analytics,GA
+156,3.3,"Seattle, WA",21.5,Data and Analytics,WA
+157,3.7,"Charlotte, NC",15.0,Data and Analytics,NC
+158,3.6,"Monroe, OH",92.0,Engineering,OH
+159,3.8,"Plymouth, MI",54.0,Others,MI
+160,4.3,"Issaquah, WA",8.0,Others,WA
+161,3.2,"San Jose, CA",17.5,Data and Analytics,CA
+162,3.2,"Richmond, VA",17.0,Data and Analytics,VA
+163,3.6,"Spearfish, SD",34.0,Others,SD
+164,3.7,"Sunrise, FL",23.5,Business and Marketing,FL
+165,3.7,"Woodstock, NY",18.55,Others,NY
+166,2.4,United States,71.0,Data and Analytics,United States
+167,4.1,"Austin, TX",19.0,Research and Development,TX
+168,3.9,"Cincinnati, OH",45.0,Others,OH
+169,3.0,"Atlanta, IN",48.0,Others,IN
+170,3.3,"Charlotte, NC",20.0,Others,NC
+171,3.0,"Chicago, IL",24.5,Research and Development,IL
+172,3.4,"Evansville, IN",24.564999999999998,Data and Analytics,IN
+173,4.3,"The Woodlands, TX",44.0,Technology and IT,TX
+174,3.4,"Eau Claire, WI",27.5,Others,WI
+175,3.7,"Boston, MA",20.0,Data and Analytics,MA
+176,3.4,"Lincoln, NE",22.5,Others,NE
+177,3.3,"Raleigh, NC",43.525,Finance and Accounting,NC
+178,2.9,United States,36.0,Research and Development,United States
+179,3.7,"Minneapolis, MN",37.0,Others,MN
+180,3.5,"San Jose, CA",34.0,Data and Analytics,CA
+181,4.2,Georgia,22.5,Others,Georgia
+182,3.8,"Evanston, IL",21.0,Business and Marketing,IL
+183,4.2,"Chicago, IL",16.0,Business and Marketing,IL
+184,3.9,"Orange, CA",37.0,Business and Marketing,CA
+185,5.0,"Hackettstown, NJ",100.0,Data and Analytics,NJ
+186,3.8,United States,61.0,Technology and IT,United States
+187,3.9,Remote,60.0,Others,Remote
+188,3.6,"Orem, UT",44.0,Data and Analytics,UT
+189,5.0,"San Jose, CA",21.0,Engineering,CA
+190,4.0,"San Jose, CA",18.0,Data and Analytics,CA
+191,3.9,Remote,29.0,Data and Analytics,Remote
+192,5.0,Remote,45.0,Technology and IT,Remote
+193,3.7,"Altamonte Springs, FL",58.0,Others,FL
+194,3.7,"Somerville, MA",22.0,Business and Marketing,MA
+195,3.2,"McLean, VA",23.049999999999997,Data and Analytics,VA
+196,3.9,"Dallas, TX",15.0,Engineering,TX
+197,3.1,United States,20.0,Data and Analytics,United States
+198,2.0,"Melbourne, FL",20.0,Engineering,FL
+199,4.1,New Jersey,18.59,Others,New Jersey
+200,3.3,"Redding, CA",46.0,Research and Development,CA
+201,4.3,"Alexandria, VA",70.0,Others,VA
+202,2.3,"Hackettstown, NJ",53.0,Data and Analytics,NJ
+203,3.7,"Cleveland, OH",40.0,Technology and IT,OH
+204,2.9,"Houston, TX",20.0,Technology and IT,TX
+205,3.9,"Virginia Beach, VA",100.0,Data and Analytics,VA
+206,3.7,"Los Angeles, CA",15.0,Business and Marketing,CA
+207,3.0,"Colonial Park, Dauphin, PA",53.0,Technology and IT,PA
+208,3.6,"Mojave, CA",15.0,Others,CA
+209,3.5,"Pittsburgh, PA",31.0,Others,PA
+210,4.2,"Charlotte, NC",46.0,Data and Analytics,NC
+211,4.2,"Etna, PA",50.0,Engineering,PA
+212,3.1,Remote,38.0,Others,Remote
+213,1.6,United States,109.0,Data and Analytics,United States
+214,3.8,"Atlanta, GA",70.0,Data and Analytics,GA
+215,3.1,United States,23.5,Research and Development,United States
+216,3.8,"Jacksonville, FL",20.0,Data and Analytics,FL
+217,3.8,"Lititz, PA",35.305,Data and Analytics,PA
+218,3.2,"Norwell, MA",19.0,Data and Analytics,MA
+219,3.9,"Culver City, CA",26.325000000000003,Data and Analytics,CA
+220,4.1,"Plymouth, MI",20.5,Others,MI
+221,4.1,"Westwood, MA",40.0,Others,MA
+222,3.0,Remote,31.0,Business and Marketing,Remote
+223,3.5,"Los Alamos, NM",24.35,Others,NM
+224,3.8,"Coraopolis, PA",17.5,Technology and IT,PA
+225,3.9,"San Jose, CA",31.5,Engineering,CA
+226,3.7,"South Jordan, UT",31.0,Others,UT
+227,4.4,"Washington, DC",43.0,Research and Development,DC
+228,4.0,"New York, NY",21.5,Others,NY
+229,3.7,"New Braunfels, TX",40.0,Engineering,TX
+230,3.8,"Houston, TX",53.0,Others,TX
+231,3.5,"Alexandria, VA",17.5,Others,VA
+232,3.7,"Folsom, CA",15.0,Others,CA
+233,3.5,Pennsylvania,71.0,Business and Marketing,Pennsylvania
+234,3.6,"Salt Lake City, UT",55.0,Technology and IT,UT
+235,3.1,"Bay City, MI",29.0,Finance and Accounting,MI
+236,4.1,"Arlington, VA",70.0,Others,VA
+237,3.7,"Jupiter, FL",22.0,Data and Analytics,FL
+238,4.0,"Jacksonville, FL",18.0,Engineering,FL
+239,3.3,"McLean, VA",50.0,Data and Analytics,VA
+240,3.8,"Thousand Oaks, CA",37.0,Business and Marketing,CA
+241,3.7,United States,22.0,Data and Analytics,United States
+242,3.3,"Richmond, VA",43.269999999999996,Others,VA
+243,3.8,"Alma, MI",50.0,Others,MI
+244,2.4,"Palo Alto, CA",37.0,Engineering,CA
+245,4.0,"Baton Rouge, LA",26.5,Engineering,LA
+246,3.1,"Hagerstown, MD",20.615000000000002,Data and Analytics,MD
+247,3.3,"Mechanicsburg, PA",20.0,Engineering,PA
+248,3.9,"Wauwatosa, WI",20.5,Technology and IT,WI
+249,4.5,United States,18.0,Research and Development,United States
+250,4.1,"Hughson, CA",45.0,Business and Marketing,CA
+251,3.6,"Portage, MI",30.5,Others,MI
+252,4.3,"Pittsburgh, PA",22.5,Data and Analytics,PA
+253,4.1,"Charleston, SC",30.0,Others,SC
+254,4.0,"Hartford, CT",38.0,Others,CT
+255,4.2,"Caldwell, ID",43.0,Technology and IT,ID
+256,4.1,"San Juan, PR",52.25,Technology and IT,PR
+257,3.9,"Medford, OR",28.5,Research and Development,OR
+258,4.1,"Boulder, CO",16.67,Business and Marketing,CO
+259,3.8,"Los Angeles, CA",49.0,Others,CA
+260,3.9,"Atlanta, GA",6.0,Data and Analytics,GA
+261,4.1,"Fairfield, OH",27.0,Technology and IT,OH
+262,4.3,"Edison, NJ",1.0,Business and Marketing,NJ
+263,4.2,"Columbia, MO",95.0,Data and Analytics,MO
+264,3.3,United States,34.0,Others,United States
+265,4.3,Connecticut,18.2,Data and Analytics,Connecticut
+266,4.2,"Boston, MA",51.0,Others,MA
+267,3.6,"Washington, DC",15.03,Data and Analytics,DC
+268,4.1,"Rosslyn, VA",27.06,Data and Analytics,VA
+269,3.3,"Daytona Beach, FL",25.0,Technology and IT,FL
+270,3.8,"Halstead, KS",58.0,Others,KS
+271,3.7,"Dallas, TX",20.0,Others,TX
+272,5.0,"Irvine, CA",35.0,Business and Marketing,CA
+273,3.2,"Palo Alto, CA",24.815,Data and Analytics,CA
+274,3.7,Manhattan,19.865,Business and Marketing,Manhattan
+275,4.0,"Atlanta, GA",18.1,Others,GA
+276,4.2,United States,39.0,Research and Development,United States
+277,3.1,"Greensboro, NC",38.0,Technology and IT,NC
+278,3.8,"Orange, CA",59.0,Technology and IT,CA
+279,3.7,United States,31.0,Others,United States
+280,3.5,"Baltimore, MD",28.0,Technology and IT,MD
+281,3.3,"North Chicago, IL",27.060000000000002,Others,IL
+282,3.9,"Atlanta, GA",34.0,Others,GA
+283,3.5,"Minneapolis, MN",49.0,Engineering,MN
+284,3.9,"Seattle, WA",76.0,Data and Analytics,WA
+285,3.4,"Los Angeles, CA",24.5,Business and Marketing,CA
+286,3.7,"Fort Mill, SC",16.0,Others,SC
+287,3.3,Remote,16.5,Others,Remote
+288,4.1,"Franklin Lakes, NJ",23.0,Technology and IT,NJ
+289,2.7,"Brea, CA",37.0,Engineering,CA
+290,3.7,"Camden, NJ",41.0,Data and Analytics,NJ
+291,3.8,"Boston, MA",25.0,Others,MA
+292,3.9,United States,23.0,Others,United States
+293,3.3,Remote,42.0,Others,Remote
+294,4.5,"Menlo Park, CA",22.0,Data and Analytics,CA
+295,3.9,"Monroe, OH",45.0,Others,OH
+296,3.7,"Franklin, TN",36.0,Research and Development,TN
+297,4.4,"Hagerstown, MD",36.0,Technology and IT,MD
+298,3.8,"Wayzata, MN",19.0,Technology and IT,MN
+299,3.3,"Washington, DC",53.0,Technology and IT,DC
+300,4.1,"Covington, GA",22.5,Engineering,GA
+301,3.5,"Milpitas, CA",52.0,Engineering,CA
+302,3.7,"Greensboro, NC",50.5,Business and Marketing,NC
+303,3.5,"Rome, GA",38.0,Others,GA
+304,4.0,United States,1.0,Business and Marketing,United States
+305,3.1,"New York, NY",58.0,Others,NY
+306,4.3,Remote,8.0,Others,Remote
+307,3.1,"Newark, NJ",35.0,Business and Marketing,NJ
+308,4.0,"Atlanta, GA",45.0,Others,GA
+309,4.3,"New York, NY",20.0,Others,NY
+310,4.1,"Plymouth, MI",33.0,Engineering,MI
+311,4.2,"Hackettstown, NJ",50.0,Research and Development,NJ
+312,2.9,United States,44.0,Technology and IT,United States
+313,4.3,"Augusta, GA",50.0,Others,GA
+314,3.9,"Phoenix, AZ",48.0,Others,AZ
+315,3.8,"San Jose, CA",31.0,Others,CA
+316,3.8,"Abbeville, AL",62.0,Data and Analytics,AL
+317,3.7,"Ada, OK",89.0,Business and Marketing,OK
+318,3.6,"Redwood City, CA",19.5,Research and Development,CA
+319,3.8,"Denver, CO",70.0,Business and Marketing,CO
+320,2.0,"San Antonio, TX",32.0,Others,TX
+321,3.7,"Durham, NC",15.0,Data and Analytics,NC
+322,3.9,"Lehi, UT",53.0,Data and Analytics,UT
+323,3.5,New Jersey,32.0,Others,New Jersey
+324,3.2,"Everett, WA",80.0,Data and Analytics,WA
+325,3.5,"New York, NY",66.0,Business and Marketing,NY
+326,3.9,"Palo Alto, CA",6.0,Engineering,CA
+327,3.6,"Seattle, WA",17.0,Business and Marketing,WA
+328,3.1,"Toledo, OH",21.0,Technology and IT,OH
+329,3.2,"Pittsburgh, PA",53.0,Data and Analytics,PA
+330,3.3,"Los Angeles, CA",18.5,Research and Development,CA
+331,3.9,"West Hills, CA",42.0,Engineering,CA
+332,3.3,United States,22.5,Others,United States
+333,3.9,"Washington, DC",44.0,Technology and IT,DC
+334,4.2,Remote,55.0,Technology and IT,Remote
+335,3.9,"Hartford, VT",16.0,Data and Analytics,VT
+336,3.8,United States,50.5,Others,United States
+337,3.7,"Spring, TX",35.305,Business and Marketing,TX
+338,4.4,"Cupertino, CA",23.0,Research and Development,CA
+339,3.3,United States,27.11,Technology and IT,United States
+340,4.0,"Riverdale, GA",50.0,Others,GA
+341,3.6,"Minneapolis, MN",16.0,Engineering,MN
+342,3.2,"Mobile, AL",37.0,Research and Development,AL
+343,3.8,"Seattle, WA",34.0,Others,WA
+344,4.3,United States,37.0,Others,United States
+345,3.2,United States,24.5,Technology and IT,United States
+346,4.6,"Washington, DC",60.0,Data and Analytics,DC
+347,3.2,"Lewisville, TX",28.5,Data and Analytics,TX
+348,3.9,"Norcross, GA",27.310000000000002,Engineering,GA
+349,3.0,"Livermore, CA",62.0,Engineering,CA
+350,3.8,"Chicago, IL",15.0,Others,IL
+351,4.0,"Philadelphia, PA",20.0,Technology and IT,PA
+352,3.4,"Austin, TX",1.0,Others,TX
+353,4.5,"Bloomington, IN",17.5,Data and Analytics,IN
+354,4.0,"Huntsville, AL",17.0,Others,AL
+355,4.3,"Lexington, KY",13.5,Engineering,KY
+356,4.2,"Topeka, KS",43.0,Data and Analytics,KS
+357,3.7,"Flagstaff, AZ",50.5,Others,AZ
+358,3.3,"Atlanta, GA",35.0,Technology and IT,GA
+359,3.4,"Franklin, TN",22.5,Data and Analytics,TN
+360,4.2,Texas,11.0,Others,Texas
+361,2.6,"Evendale, OH",20.0,Technology and IT,OH
+362,4.6,"East Lansing, MI",20.0,Data and Analytics,MI
+363,3.9,"Huntington Beach, CA",17.5,Others,CA
+364,3.8,Upper Providence Township,54.0,Others,Upper Providence Township
+365,4.0,"Denver, CO",10.5,Government and Policy,CO
+366,3.2,"Corvallis, OR",43.0,Technology and IT,OR
+367,3.7,"Salt Lake City, UT",15.555,Others,UT
+368,4.2,"Minneapolis, MN",21.75,Engineering,MN
+369,3.7,"Richmond, VA",42.0,Research and Development,VA
+370,4.0,"Norman, OK",49.0,Others,OK
+371,3.5,"Oklahoma City, OK",25.0,Data and Analytics,OK
+372,4.3,"Newark, NJ",24.2,Data and Analytics,NJ
+373,4.2,"New York, NY",37.0,Engineering,NY
+374,3.4,"Toledo, OH",20.0,Technology and IT,OH
+375,3.7,"Houston, TX",71.0,Engineering,TX
+376,4.0,"Sturgis, KY",57.0,Others,KY
+377,4.5,"Chicago, IL",40.0,Technology and IT,IL
+378,4.1,"Boston, MA",38.0,Others,MA
+379,3.8,"New York, NY",18.0,Others,NY
+380,4.4,"Vienna, VA",17.0,Research and Development,VA
+381,3.6,"Phoenix, AZ",51.0,Others,AZ
+382,3.2,"Houston, TX",48.0,Data and Analytics,TX
+383,4.0,"Hanover, PA",55.0,Data and Analytics,PA
+384,4.2,"Newark, NJ",40.0,Others,NJ
+385,4.4,"York, WA",50.5,Others,WA
+386,3.9,"Washington, DC",17.315,Others,DC
+387,3.6,"Boston, NY",61.0,Others,NY
+388,3.8,"Mundelein, IL",61.0,Technology and IT,IL
+389,4.2,"Niskayuna, NY",40.0,Research and Development,NY
+390,4.0,"Boston, MA",38.0,Others,MA
+391,3.3,"Williamsburg, VA",18.0,Engineering,VA
+392,4.0,"Indianapolis, IN",18.0,Others,IN
+393,3.8,"Grand Blanc, MI",50.0,Business and Marketing,MI
+394,3.8,"Minneapolis, MN",15.0,Others,MN
+395,3.9,United States,31.73,Technology and IT,United States
+396,4.3,"Canton, OH",98.0,Data and Analytics,OH
+397,4.0,"Sunnyvale, CA",118.0,Data and Analytics,CA
+398,3.4,"Charlotte, NC",38.0,Data and Analytics,NC
+399,5.0,"Austin, TX",15.06,Others,TX
+400,4.7,"Tulsa, OK",35.0,Research and Development,OK
+401,2.8,"Dallas, TX",55.0,Others,TX
+402,3.5,"Frisco, TX",37.0,Others,TX
+403,4.3,"Chicago, IL",19.25,Research and Development,IL
+404,3.2,"Norcross, GA",83.0,Engineering,GA
+405,4.0,"Boston, MA",49.0,Others,MA
+406,3.8,"Marysville, MI",31.0,Data and Analytics,MI
+407,4.2,"Saint Louis, MO",16.28,Others,MO
+408,3.7,Florida,60.0,Others,Florida
+409,3.5,"Erlanger, KY",20.5,Research and Development,KY
+410,5.0,"Bentonville, AR",54.0,Others,AR
+411,2.9,"Princeton, NJ",40.0,Others,NJ
+412,3.1,"Columbus, OH",62.0,Technology and IT,OH
+413,3.8,"Fremont, CA",37.0,Others,CA
+414,3.8,"Mechanicsburg, PA",94.0,Engineering,PA
+415,4.1,"Mentor, OH",50.0,Others,OH
+416,2.7,"San Jose, CA",37.0,Engineering,CA
+417,3.9,"Rolling Meadows, IL",53.0,Finance and Accounting,IL
+418,3.7,"Tempe, AZ",17.0,Engineering,AZ
+419,3.9,"Providence, Delaware, PA",22.5,Others,PA
+420,3.7,"Kansas City, MO",23.5,Others,MO
+421,3.6,"Cincinnati, OH",55.0,Engineering,OH
+422,3.2,"Rapid City, SD",36.0,Business and Marketing,SD
+423,4.1,"Boston, MA",17.5,Others,MA
+424,4.0,"San Diego, CA",87.0,Engineering,CA
+425,3.6,"Weston, MA",21.0,Technology and IT,MA
+426,4.0,"Detroit, MI",16.98,Others,MI
+427,3.2,United States,22.5,Technology and IT,United States
+428,3.5,"Cleveland, OH",44.0,Others,OH
+429,3.5,"Chicago, IL",23.0,Data and Analytics,IL
+430,4.1,"Marietta, GA",59.0,Engineering,GA
+431,4.2,"Toledo, OH",13.0,Others,OH
+432,4.1,Idaho,42.0,Engineering,Idaho
+433,4.0,"Coxs Creek, KY",38.0,Engineering,KY
+434,2.8,"Fort Worth, TX",17.89,Others,TX
+435,3.7,"Orlando, FL",103.0,Data and Analytics,FL
+436,3.3,"East Lansing, MI",31.0,Business and Marketing,MI
+437,4.1,"Lexington, KY",60.0,Engineering,KY
+438,3.6,"Billerica, MA",27.5,Data and Analytics,MA
+439,3.8,United States,18.2,Engineering,United States
+440,2.9,"San Francisco, CA",5.0,Data and Analytics,CA
+441,3.3,United States,28.85,Technology and IT,United States
+442,3.9,United States,18.2,Finance and Accounting,United States
+443,4.0,"Miami, FL",89.0,Others,FL
+444,3.8,"Saint Stephen, SC",32.0,Research and Development,SC
+445,3.9,"Livermore, CA",16.0,Engineering,CA
+446,1.0,"Seattle, WA",23.0,Business and Marketing,WA
+447,4.0,"Cleveland, OH",28.85,Others,OH
+448,3.6,"Akron, OH",43.0,Data and Analytics,OH
+449,3.7,"Brooklyn, NY",59.0,Business and Marketing,NY
+450,4.1,"Kansas City, MO",49.0,Business and Marketing,MO
+451,3.5,"Chino, CA",23.795,Others,CA
+452,4.0,"Monroe, MI",59.0,Engineering,MI
+453,4.0,"Schenectady, NY",19.0,Technology and IT,NY
+454,4.0,"Branchburg, NJ",53.0,Others,NJ
+455,4.3,"Fort Mill, SC",25.25,Others,SC
+456,3.6,"Gainesville, FL",21.5,Others,FL
+457,3.5,"Evendale, OH",20.0,Engineering,OH
+458,3.9,"Cincinnati, OH",18.2,Others,OH
+459,3.4,"Columbia, MD",84.0,Data and Analytics,MD
+460,3.4,"Nashville, TN",52.0,Technology and IT,TN
+461,4.0,"Arlington, VA",100.0,Others,VA
+462,3.9,"Alpharetta, GA",55.0,Technology and IT,GA
+463,3.1,"Boston, MA",13.5,Research and Development,MA
+464,3.8,United States,61.0,Others,United States
+465,3.8,"Franklin, TN",15.0,Data and Analytics,TN
+466,3.2,"San Francisco, CA",31.4,Others,CA
+467,3.4,"Arlington, VA",20.5,Technology and IT,VA
+468,3.7,"Fort Pierce, FL",54.0,Others,FL
+469,3.8,"New York, NY",31.0,Technology and IT,NY
+470,3.7,Florida,4.0,Data and Analytics,Florida
+471,3.9,"Weslaco, TX",15.0,Technology and IT,TX
+472,4.0,"Ithaca, NY",17.0,Others,NY
+473,4.2,"Ogden, UT",24.5,Others,UT
+474,3.2,United States,21.0,Others,United States
+475,4.4,United States,35.0,Others,United States
+476,3.5,"Fairlawn, OH",56.0,Others,OH
+477,3.3,"Montgomery, AL",56.0,Data and Analytics,AL
+478,2.9,United States,50.0,Others,United States
+479,3.5,"Salt Lake City, UT",93.0,Technology and IT,UT
+480,3.3,"West Monroe, LA",78.0,Engineering,LA
+481,3.5,"Cincinnati, OH",37.0,Data and Analytics,OH
+482,4.1,"Punta Gorda, FL",2.0,Engineering,FL
+483,4.1,"Bedford, MA",64.0,Others,MA
+484,3.5,"Denver, CO",12.0,Research and Development,CO
+485,4.7,"McAllen, TX",75.0,Technology and IT,TX
+486,2.9,"Newbern, TN",58.0,Data and Analytics,TN
+487,3.3,"Toledo, OH",16.0,Business and Marketing,OH
+488,3.6,"Pensacola, FL",20.5,Others,FL
+489,3.3,"Greeley, CO",24.619999999999997,Technology and IT,CO
+490,3.0,"York, PA",62.0,Others,PA
+491,4.1,"Brooklyn, OH",85.0,Business and Marketing,OH
+492,4.2,"Phoenix, AZ",21.0,Technology and IT,AZ
+493,4.0,"Washington, DC",70.0,Technology and IT,DC
+494,3.6,"Manor, TX",54.0,Business and Marketing,TX
+495,4.2,"Bloomington, IN",20.5,Technology and IT,IN
+496,3.9,United States,45.0,Research and Development,United States
+497,3.9,United States,20.5,Data and Analytics,United States
+498,3.5,"Worthington, OH",52.0,Engineering,OH
+499,4.0,"Cumberland, OH",16.0,Others,OH
+500,4.3,"Manassas, VA",23.0,Others,VA
+501,4.2,"Baltimore, MD",16.0,Others,MD
+502,4.7,"Denver, CO",41.04,Others,CO
+503,3.5,"Sunnyvale, CA",37.46107355864811,Others,CA
+504,4.1,"Alpine, TX",37.46107355864811,Technology and IT,TX
+505,3.6,"Newport Beach, CA",37.46107355864811,Engineering,CA
+506,2.8,"Ann Arbor, MI",37.46107355864811,Others,MI
+507,4.3,"New York, NY",37.46107355864811,Business and Marketing,NY
+508,3.7,"Cumming, GA",37.46107355864811,Others,GA
+509,4.0,"Salt Lake City, UT",37.46107355864811,Others,UT
+510,3.8,"Bethesda, MD",37.46107355864811,Others,MD
+511,4.7,"Los Alamos, NM",37.46107355864811,Others,NM
+512,4.0,"Boardman, OR",37.46107355864811,Engineering,OR
+513,3.2,"Stillwater, OK",37.46107355864811,Others,OK
+514,3.7,Oklahoma,37.46107355864811,Others,Oklahoma
+515,4.1,"Golden Valley, MN",37.46107355864811,Research and Development,MN
+516,2.6,"Minneapolis, MN",37.46107355864811,Others,MN
+517,4.2,"Miami, FL",37.46107355864811,Others,FL
+518,3.2,"Mountain View, CA",37.46107355864811,Others,CA
+519,3.9,"Falcon Heights, Ramsey, MN",37.46107355864811,Others,MN
+520,3.6,"Deerfield Beach, FL",37.46107355864811,Technology and IT,FL
+521,3.2,"Lakeland, FL",37.46107355864811,Others,FL
+522,3.5,"Needham, MA",37.46107355864811,Technology and IT,MA
+523,5.0,"Saint Louis, MO",37.46107355864811,Others,MO
+524,3.6,"Virginia Beach, VA",37.46107355864811,Technology and IT,VA
+525,3.1,"Omaha, NE",37.46107355864811,Others,NE
+526,2.9,"Grand Rapids, MI",37.46107355864811,Others,MI
+527,4.3,"Troy, MI",37.46107355864811,Data and Analytics,MI
+528,4.0,"Cherry Hill, NJ",37.46107355864811,Business and Marketing,NJ
+529,3.9,"Fort Meade, MD",37.46107355864811,Data and Analytics,MD
+530,4.1,"Hagerstown, MD",37.46107355864811,Engineering,MD
+531,4.1,"Lincoln, NE",37.46107355864811,Technology and IT,NE
+532,3.4,"North Chelmsford, MA",37.46107355864811,Others,MA
+533,3.8,United States,37.46107355864811,Others,United States
+534,3.6,"Santa Ana, CA",37.46107355864811,Technology and IT,CA
+535,1.0,"Culver City, CA",37.46107355864811,Business and Marketing,CA
+536,3.3,"Essex Junction, VT",37.46107355864811,Others,VT
+537,4.1,"Erlanger, KY",37.46107355864811,Engineering,KY
+538,3.7,"Manor, TX",37.46107355864811,Others,TX
+539,3.1,"North Chicago, IL",37.46107355864811,Finance and Accounting,IL
+540,3.7,"Honolulu, HI",37.46107355864811,Others,HI
+541,4.4,"San Jose, CA",37.46107355864811,Others,CA
+542,3.7,"Phoenix, AZ",37.46107355864811,Data and Analytics,AZ
+543,5.0,"Shrewsbury, MA",37.46107355864811,Government and Policy,MA
+544,4.3,"Secaucus, NJ",37.46107355864811,Others,NJ
+545,4.4,"Worcester, MA",37.46107355864811,Business and Marketing,MA
+546,4.0,"Universal City, CA",37.46107355864811,Data and Analytics,CA
+547,4.0,"Fall River, MA",37.46107355864811,Others,MA
+548,3.4,"Newark, NJ",37.46107355864811,Business and Marketing,NJ
+549,3.7,"Woonsocket, RI",37.46107355864811,Others,RI
+550,3.9,"Lafayette, LA",37.46107355864811,Engineering,LA
+551,3.8,"Washington, DC",37.46107355864811,Technology and IT,DC
+552,3.8,"Fort Mill, SC",37.46107355864811,Others,SC
+553,3.8,"Irvine, CA",37.46107355864811,Technology and IT,CA
+554,3.8,"Annapolis, MD",37.46107355864811,Others,MD
+555,3.8,"Universal City, CA",37.46107355864811,Data and Analytics,CA
+556,3.8,"Jackson, MI",37.46107355864811,Others,MI
+557,3.8,"Brooklyn, OH",37.46107355864811,Others,OH
+558,3.8,"Oneonta, NY",37.46107355864811,Others,NY
+559,3.8,"Troy, MI",37.46107355864811,Engineering,MI
+560,3.8,"Salt Lake City, UT",37.46107355864811,Others,UT
+561,3.8,"Charlotte, NC",37.46107355864811,Others,NC
+562,3.8,"Sinton, TX",37.46107355864811,Others,TX
+563,3.8,Iowa,37.46107355864811,Others,Iowa
+564,3.8,"Somerville, MA",37.46107355864811,Research and Development,MA
+565,3.8,"Dearborn, MI",37.46107355864811,Data and Analytics,MI
+566,3.8,"Pittsburgh, PA",37.46107355864811,Finance and Accounting,PA
+567,3.8,United States,37.46107355864811,Technology and IT,United States
+568,3.8,"Huntsville, AL",37.46107355864811,Others,AL
+569,3.8,"Albuquerque, NM",37.46107355864811,Data and Analytics,NM
+570,3.8,"Golden Valley, MN",37.46107355864811,Engineering,MN
+571,3.8,"Huntsville, AL",37.46107355864811,Others,AL
+572,3.8,United States,37.46107355864811,Others,United States
+573,3.8,"Boston, MA",37.46107355864811,Business and Marketing,MA
+574,3.8,"Canton, OH",37.46107355864811,Others,OH
+575,3.8,"Mount Hermon, CA",37.46107355864811,Others,CA
+576,3.8,"Honolulu, HI",37.46107355864811,Others,HI
+577,3.8,"Brooklyn, NY",37.46107355864811,Others,NY
+578,3.8,"Saint Louis, MO",37.46107355864811,Business and Marketing,MO
+579,3.8,"Golden Valley, MN",37.46107355864811,Engineering,MN
+580,3.8,California,37.46107355864811,Engineering,California
+581,3.8,"Wichita Falls, TX",37.46107355864811,Technology and IT,TX
+582,3.8,"Spencer, IN",37.46107355864811,Engineering,IN
+583,3.8,"Schaumburg, IL",37.46107355864811,Others,IL
+584,3.8,Alaska,37.46107355864811,Others,Alaska
+585,3.8,"Washington, DC",37.46107355864811,Business and Marketing,DC
+586,3.8,"Philadelphia, PA",37.46107355864811,Technology and IT,PA
+587,3.8,"Willmar, MN",37.46107355864811,Business and Marketing,MN
+588,3.8,"Elma, NY",37.46107355864811,Technology and IT,NY
+589,3.8,"Lexington, KY",37.46107355864811,Others,KY
+590,3.8,"West Lafayette, IN",37.46107355864811,Technology and IT,IN
+591,3.8,"Carlsbad, NM",37.46107355864811,Others,NM
+592,3.8,United States,37.46107355864811,Others,United States
+593,3.8,"Huntsville, AL",37.46107355864811,Others,AL
+594,3.8,"Santa Clara, CA",37.46107355864811,Engineering,CA
+595,3.8,"Arlington, VA",37.46107355864811,Research and Development,VA
+596,3.8,"Los Angeles, CA",37.46107355864811,Others,CA
+597,3.8,"Richmond, VA",37.46107355864811,Others,VA
+598,3.8,"Columbia, MO",37.46107355864811,Finance and Accounting,MO
+599,3.8,"Indianapolis, IN",37.46107355864811,Engineering,IN
+600,3.8,New Jersey,37.46107355864811,Technology and IT,New Jersey
+601,3.8,"Seattle, WA",37.46107355864811,Technology and IT,WA
+602,3.8,"Salt Lake City, UT",37.46107355864811,Others,UT
+603,3.8,United States,37.46107355864811,Technology and IT,United States
+604,3.8,"Boston, MA",37.46107355864811,Others,MA
+605,3.8,"South Gate, CA",37.46107355864811,Others,CA
+606,3.8,"Annapolis Junction, MD",37.46107355864811,Others,MD
+607,3.8,"Hagerstown, MD",37.46107355864811,Engineering,MD
+608,3.8,"Bellevue, WA",37.46107355864811,Others,WA
+609,3.8,"Philadelphia, PA",37.46107355864811,Technology and IT,PA
+610,3.8,California,37.46107355864811,Technology and IT,California
+611,3.8,United States,37.46107355864811,Technology and IT,United States
+612,3.8,"Iowa City, IA",37.46107355864811,Others,IA
+613,3.8,"New York, NY",37.46107355864811,Others,NY
+614,3.8,"Annville, KY",37.46107355864811,Technology and IT,KY
+615,3.8,"Snyder, NE",37.46107355864811,Data and Analytics,NE
+616,3.8,Remote,37.46107355864811,Others,Remote
+617,3.8,United States,37.46107355864811,Others,United States
+618,3.8,"New Freedom, PA",37.46107355864811,Engineering,PA
+619,3.8,"Phoenix, AZ",37.46107355864811,Data and Analytics,AZ
+620,3.8,"Boston, MA",37.46107355864811,Business and Marketing,MA
+621,3.8,"Fremont, CA",37.46107355864811,Engineering,CA
+622,3.8,"Junction City, OR",37.46107355864811,Others,OR
+623,3.8,"Waterloo, CA",37.46107355864811,Business and Marketing,CA
+624,3.8,"San Francisco, CA",37.46107355864811,Others,CA
+625,3.8,"Dayton, OH",37.46107355864811,Research and Development,OH
+626,3.8,"Houston, TX",37.46107355864811,Technology and IT,TX
+627,3.8,"New York, NY",37.46107355864811,Technology and IT,NY
+628,3.8,"Spencer, IN",37.46107355864811,Engineering,IN
+629,3.8,"New York, NY",37.46107355864811,Others,NY
+630,3.8,"Beckley, WV",37.46107355864811,Others,WV
+631,3.8,"Fort George G Meade, MD",37.46107355864811,Others,MD
+632,3.8,"Greensboro, NC",37.46107355864811,Others,NC
+633,3.8,"Cranberry Twp, PA",37.46107355864811,Engineering,PA
+634,3.8,"Phoenix, AZ",37.46107355864811,Others,AZ
+635,3.8,"Farmington, CT",37.46107355864811,Technology and IT,CT
+636,3.8,"Boston, MA",37.46107355864811,Others,MA
+637,3.8,"Annapolis Junction, MD",37.46107355864811,Others,MD
+638,3.8,"Golden Gate, Collier, FL",37.46107355864811,Others,FL
+639,3.8,"Pitman, NJ",37.46107355864811,Business and Marketing,NJ
+640,3.8,"McLean, VA",37.46107355864811,Engineering,VA
+641,3.8,"Lakeland, FL",37.46107355864811,Others,FL
+642,3.8,"South San Francisco, CA",37.46107355864811,Data and Analytics,CA
+643,3.8,"Bozeman, MT",37.46107355864811,Others,MT
+644,3.8,"Pasadena, CA",37.46107355864811,Others,CA
+645,3.8,"Rochester, NY",37.46107355864811,Business and Marketing,NY
+646,3.8,"Brooklyn, OH",37.46107355864811,Technology and IT,OH
+647,3.8,United States,37.46107355864811,Others,United States
+648,3.8,"Louisville, KY",37.46107355864811,Others,KY
