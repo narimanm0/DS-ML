@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apartment Price Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        h1 {
+            text-align: center;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        input, select {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Apartment Price Prediction</h1>
+    <form id="predictionForm">
+        <div class="form-group">
+            <label for="square">Square Meters:</label>
+            <input type="number" id="square" name="square" step="0.1" required>
+        </div>
+        <div class="form-group">
+            <label for="new_building">New Building:</label>
+            <select id="new_building" name="new_building" required>
+                <option value="0">No</option>
+                <option value="1">Yes</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="has_repair">Has Repair:</label>
+            <select id="has_repair" name="has_repair" required>
+                <option value="0">No</option>
+                <option value="1">Yes</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="has_metro">Has Metro:</label>
+            <select id="has_metro" name="has_metro" required>
+                <option value="0">No</option>
+                <option value="1">Yes</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="location">Location:</label>
+            <select id="location" name="location" required>
+                <option value="Binəqədi">Binəqədi</option>
+                <option value="Lökbatan q.">Lökbatan q.</option>
+                <option value="Nizami">Nizami</option>
+                <option value="Nərimanov">Nərimanov</option>
+                <option value="Nəsimi">Nəsimi</option>
+                <option value="Pirallahı r.">Pirallahı r.</option>
+                <option value="Qaradağ">Qaradağ</option>
+                <option value="Sabunçu">Sabunçu</option>
+                <option value="Suraxanı">Suraxanı</option>
+                <option value="Səbail">Səbail</option>
+                <option value="Xətai">Xətai</option>
+                <option value="Xəzər">Xəzər</option>
+                <option value="Yasamal">Yasamal</option>
+            </select>
+        </div>
+        <button type="submit">Predict Price</button>
+    </form>
+    <div class="result" id="result">
+        <!-- Prediction result will be displayed here -->
+    </div>
+
+    <script>
+        document.getElementById('predictionForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            // Collect form data
+            const formData = new FormData(this);
+            const data = {};
+            formData.forEach((value, key) => {
+                data[key] = value;
+            });
+
+            // Construct location feature
+            const locations = ['Binəqədi', 'Lökbatan q.', 'Nizami', 'Nərimanov', 'Nəsimi', 'Pirallahı r.', 'Qaradağ', 'Sabunçu', 'Suraxanı', 'Səbail', 'Xətai', 'Xəzər', 'Yasamal'];
+            locations.forEach(location => {
+                data[`location_${location}`] = data.location === location ? 1 : 0;
+            });
+            delete data.location;
+
+            // Send data to backend (replace with your backend endpoint)
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(result => {
+                document.getElementById('result').innerText = `Predicted Price: ${result.price}`;
+            })
+            .catch(error => {
+                document.getElementById('result').innerText = 'An error occurred. Please try again.';
+                console.error('Error:', error);
+            });
+        });
+
+    </script>
+</body>
+</html>
